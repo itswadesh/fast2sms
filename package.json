@@ -1,6 +1,6 @@
 {
   "name": "fast2sms",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A Fast2SMS helper library for NodeJS",
   "main": "index.js",
   "scripts": {
