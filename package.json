@@ -1,0 +1,29 @@
+{
+  "name": "fast2sms",
+  "version": "1.0.0",
+  "description": "A Fast2SMS helper library for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itswadesh/fast2sms.git"
+  },
+  "keywords": [
+    "fast2sms",
+    "api",
+    "rest",
+    "sms"
+  ],
+  "author": "Swadesh Behera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itswadesh/fast2sms/issues"
+  },
+  "homepage": "https://github.com/itswadesh/fast2sms#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "unirest": "^0.5.1"
+  }
+}
