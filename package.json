@@ -16,6 +16,9 @@
     "rest",
     "sms"
   ],
+  "engines": {
+    "node": ">=8.x"
+  },
   "author": "Swadesh Behera",
   "license": "ISC",
   "bugs": {
